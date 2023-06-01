@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.facebook.com/profile.php?id=100035508373396" target="_blank" rel="noreferrer">Hat</a> 👋
 </h3>
