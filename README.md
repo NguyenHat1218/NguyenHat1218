@@ -10,7 +10,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/hathat.particle/"><img align="left" src="" alt="SAMUEL | Instagram" width="21px"/></a>
-</br>
 - 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
