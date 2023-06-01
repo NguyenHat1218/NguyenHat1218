@@ -29,22 +29,22 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![]([https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript))
+![]([https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python))
+![]([https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" alt="Java))
+![]([https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4" alt="PHP"))
+![]([https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26" alt="HTML5))
+![]([https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&color=CC2927" alt="SQL Server))
+![](https://img.shields.io/badge/Database-phpMyAdmin-informational?style=flat&logo=phpmyadmin&color=4479A1" alt="phpMyAdmin)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+
 
 
 </br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+
