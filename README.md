@@ -9,13 +9,13 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-<a href="https://www.instagram.com/hathat.particle/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="SAMUEL | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/hathat.particle/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="SAMUEL | Instagram" width="21px"/>Instagram</a>
 </br>
 - 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- My projects in Python, PHP, Java.
+- My projects in Python, PHP, and Java.
 - My tools always is using Jupyter Notebook, Visual Studio Code, 
 - My Front-end skill
 
@@ -23,7 +23,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - Python
 - Java web
-- The library extensions is supporting  for the programing languages.
+- The library extensions are supporting the programming languages.
 - PHP
 
 ## 💼 Technical Skills
