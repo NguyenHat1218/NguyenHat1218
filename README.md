@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsports.yahoo.com%2Fcristiano-ronaldo-says-he-feels-betrayed-by-man-united-claims-execs-are-trying-to-push-him-off-the-club-004255420.html&psig=AOvVaw18sh-n6q17w2YJW6HPKPdl&ust=1685687470703000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCI-qi5of8CFQAAAAAdAAAAABAF" alt=""></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></a>
 </p>
 
 <h3 align="center">
