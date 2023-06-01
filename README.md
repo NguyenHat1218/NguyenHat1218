@@ -35,7 +35,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4")
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26")
 
-<br>
+</br>
+
 ![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&color=CC2927")
 ![](https://img.shields.io/badge/Database-phpMyAdmin-informational?style=flat&logo=phpmyadmin&color=4479A1")
 
@@ -43,7 +44,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
 
 
 </br>
