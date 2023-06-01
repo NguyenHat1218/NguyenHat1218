@@ -23,8 +23,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - Python
 - Java web
-- The library extensions are supporting the programming languages.
 - PHP
+- The library extensions are supporting the programming languages.
 
 ## 💼 Technical Skills
 
